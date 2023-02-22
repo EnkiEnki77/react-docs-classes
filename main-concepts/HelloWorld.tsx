@@ -1,5 +1,5 @@
 import { createRoot } from 'react-dom/client';
-import App from './App';
+import App from '../App';
 import * as React from 'react';
 
 //The smallest React example looks like this.
